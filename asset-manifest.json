@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PixaBay-Image-Search/static/css/main.16d1a238.chunk.css",
+    "main.js": "/PixaBay-Image-Search/static/js/main.2b8ea6da.chunk.js",
+    "main.js.map": "/PixaBay-Image-Search/static/js/main.2b8ea6da.chunk.js.map",
+    "runtime-main.js": "/PixaBay-Image-Search/static/js/runtime-main.e5083c04.js",
+    "runtime-main.js.map": "/PixaBay-Image-Search/static/js/runtime-main.e5083c04.js.map",
+    "static/js/2.dbda1352.chunk.js": "/PixaBay-Image-Search/static/js/2.dbda1352.chunk.js",
+    "static/js/2.dbda1352.chunk.js.map": "/PixaBay-Image-Search/static/js/2.dbda1352.chunk.js.map",
+    "index.html": "/PixaBay-Image-Search/index.html",
+    "precache-manifest.70d6bed2d2b345af8daabb6975e9c158.js": "/PixaBay-Image-Search/precache-manifest.70d6bed2d2b345af8daabb6975e9c158.js",
+    "service-worker.js": "/PixaBay-Image-Search/service-worker.js",
+    "static/css/main.16d1a238.chunk.css.map": "/PixaBay-Image-Search/static/css/main.16d1a238.chunk.css.map",
+    "static/js/2.dbda1352.chunk.js.LICENSE.txt": "/PixaBay-Image-Search/static/js/2.dbda1352.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5083c04.js",
+    "static/js/2.dbda1352.chunk.js",
+    "static/css/main.16d1a238.chunk.css",
+    "static/js/main.2b8ea6da.chunk.js"
+  ]
+}
